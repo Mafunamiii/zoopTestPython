@@ -1,0 +1,11 @@
+langchain==0.1.12
+langchain-community==0.0.28
+langchain-core==0.1.31
+langchain-openai==0.0.8
+langchain-text-splitters==0.0.1
+openai==1.14.2
+pydantic==2.9.2
+pydantic-settings==2.2.1
+python-dotenv==1.0.1
+streamlit==1.32.2
+nemoguardrails==0.7.0
